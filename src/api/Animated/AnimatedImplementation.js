@@ -1221,6 +1221,7 @@ const AnimatedImplementation = {
   Value: AnimatedValue,
   ValueXY: AnimatedValueXY,
   decay,
+  delay,
   timing,
   spring,
   subtract,
